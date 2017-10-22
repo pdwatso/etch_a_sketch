@@ -1,0 +1,28 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.square {
+	float: left;
+
+}
+
+.container{
+  width: 600px;
+  height: 600px;
+  border-style: solid;
+  margin: 0 auto;
+}
+
+.squareHovered{
+	background-color: black;
+	display: inline-block;
+	float: left;
+	clear: right;
+}
+
+#header{
+	text-align: center;
+	padding: 10px;
+}
